@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311278466211",
+    "project_id": "nabolsi2app",
+    "storage_bucket": "nabolsi2app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311278466211:android:fe373dab9360bb6225fb16",
+        "android_client_info": {
+          "package_name": "com.example.nabalsi2app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311278466211-3e22polgf8esap785al5fatcdr0lpjak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3cCb435TUCUrnJL7qb5rook0Vc8sjv5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311278466211-3e22polgf8esap785al5fatcdr0lpjak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
